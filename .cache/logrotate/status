@@ -1,0 +1,12 @@
+logrotate state -- version 2
+"/home/vishnu-devops/.cache/upstart/hud.log" 2016-6-27-0:0:0
+"/home/vishnu-devops/.cache/upstart/gnome-keyring-ssh.log" 2016-6-27-0:0:0
+"/home/vishnu-devops/.cache/upstart/unity-settings-daemon.log" 2016-6-27-0:0:0
+"/home/vishnu-devops/.cache/upstart/unity-panel-service.log" 2016-6-27-0:0:0
+"/home/vishnu-devops/.cache/upstart/ssh-agent.log" 2016-6-27-0:0:0
+"/home/vishnu-devops/.cache/upstart/upstart-event-bridge.log" 2016-6-27-0:0:0
+"/home/vishnu-devops/.cache/upstart/gpg-agent.log" 2016-6-27-0:0:0
+"/home/vishnu-devops/.cache/upstart/unity7.log" 2016-6-27-0:0:0
+"/home/vishnu-devops/.cache/upstart/indicator-sound.log" 2016-6-27-0:0:0
+"/home/vishnu-devops/.cache/upstart/window-stack-bridge.log" 2016-6-27-0:0:0
+"/home/vishnu-devops/.cache/upstart/dbus.log" 2016-6-27-0:0:0
